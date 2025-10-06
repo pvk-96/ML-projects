@@ -10,7 +10,7 @@ The datasets will also be uploaded in the repository but a drive link will be pr
    Machine Learning Algorithm to predict Titanic survival chance
 
 2. Salary Estimator:
-   Algorithm used: Nearest neighbor.
+   Algorithm used: Nearest neighbor.  
    Machine Learning algorithm to predict Salary of employees.
 
 ---

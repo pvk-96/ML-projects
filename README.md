@@ -12,6 +12,10 @@ The datasets will also be uploaded in the repository but a drive link will be pr
 2. Salary Estimator:
    Algorithm used: K-Nearest neighbor.  
    Machine Learning algorithm to predict Salary of employees.
+   
+3. Exam Marks Prediction:
+   Algorithm used: Linear Regression with Multiple variables
+   Machine Learning Algorithm to predict the Exam Marks.
 
 ---
 

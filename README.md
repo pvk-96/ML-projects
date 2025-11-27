@@ -6,16 +6,20 @@ The datasets will also be uploaded in the repository but a drive link will be pr
 **The Projects Uploaded till date:**
 ---
 1. Titanic Survival Predictor:
-   Algorithm used: Naive Bayes.
-   Machine Learning Algorithm to predict Titanic survival chance
+- Algorithm used: Naive Bayes.
+- Machine Learning Algorithm to predict Titanic survival chance
 
 2. Salary Estimator:
-   Algorithm used: K-Nearest neighbor.  
-   Machine Learning algorithm to predict Salary of employees.
+- Algorithm used: K-Nearest neighbor.  
+- Machine Learning algorithm to predict Salary of employees.
    
 3. Exam Marks Prediction:
-   Algorithm used: Linear Regression with Multiple variables
-   Machine Learning Algorithm to predict the Exam Marks.
+- Algorithm used: Linear Regression with Multiple variables
+- Machine Learning Algorithm to predict the Exam Marks.
+
+4. Car Price Prediction:
+- Algorithm used: end-to-end regression pipeline — from preprocessing to training and evaluation — using the Random Forest algorithm.
+- Machine Learning Algorithm to predict Car Prices. 
 
 ---
 
